@@ -1,3 +1,0 @@
-*.sql linguist-language=SQL
-*.twb linguist-language=Tableau
-*.twbx linguist-language=Tableau
